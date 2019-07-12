@@ -16,7 +16,7 @@ void bubble (int bub)
 	cout << endl << endl;
 
 
-	cout << "Sorting..." << endl;
+	cout << "Bubble Sorting..." << endl;
 	cout << endl << endl;
 
 	//Bubble Sort Arithmetic
